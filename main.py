@@ -1,0 +1,3 @@
+import szovegkezeles
+
+szovegkezeles.feladat()
